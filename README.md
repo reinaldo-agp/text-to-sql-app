@@ -22,7 +22,7 @@ Modelo Llama 3 descargado: ollama pull llama3
 
 Instalación
 bash# 1. Clona el repositorio
-git clone https://github.com/TU_USUARIO/text-to-sql-app.git
+git clone ](https://github.com/reinaldo-agp/text-to-sql-app.git
 cd text-to-sql-app
 
 # 2. Instala las dependencias
